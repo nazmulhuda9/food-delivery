@@ -1,0 +1,13 @@
+.image-size img{
+    width: 298px;
+    height: 270px;
+}
+.image-size{
+    display: grid;
+    justify-content: center;
+    padding-bottom: 5px;
+border: 1px solid black;
+height: 510px;
+width: 300px;
+
+}

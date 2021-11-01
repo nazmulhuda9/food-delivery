@@ -1,0 +1,11 @@
+.addProducts input{
+    display: flex;
+    padding:7px;
+margin: 9px;
+}
+.addProducts form{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}

@@ -1,0 +1,17 @@
+.delivery img{
+
+width: 100%;
+height: 150px;
+}
+.option{
+    border: 1px solid rgb(213, 216, 215);
+    border-radius: 10px;
+    width: 200px;
+    height: 250px;
+    display: grid;
+    text-align: center;
+    justify-content: center;
+    background-color:rgba(245, 198, 180, 0.384)
+  
+
+}
