@@ -19,7 +19,7 @@ const Footer = () => {
 
                 </div>
                 <div className='col-md-4 col-sm-10 p-3'>
-                    <h3>Follow Us</h3>
+                    <h3>Follow Us on</h3>
                     <i className="fab fa-facebook-square me-4"></i>
                     <i className="fab fa-instagram-square m-4"></i>
                     <i className="fab fa-twitter-square m-3 "></i>
